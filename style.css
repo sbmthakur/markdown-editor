@@ -1,0 +1,20 @@
+
+html, body, section, .max-height {
+    height: 100%;
+}
+
+#note{
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+    border: none;
+    overflow: auto;
+    outline: none;
+    resize: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#md{
+   overflow: auto;
+   border-left: 2px solid black;
+}
